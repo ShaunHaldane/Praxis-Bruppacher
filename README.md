@@ -1,7 +1,7 @@
 # Praxis-Bruppacher
 
-This was a website that I created for a speech therapist. After having the site online for a couple of months she decided to take it down because she was becomming
-too busy to take extra bookings generated from the website. 
+This was a website that I created for a speech therapist. I had built most of the website but the therapist became very busy and could not cope with the extra business
+that the website would have generated and so I stopped working on it. 
 
 ![Praxis Bruppacher 1](https://raw.githubusercontent.com/ShaunHaldane/images/main/PraxisBruppacher1.png)
 
